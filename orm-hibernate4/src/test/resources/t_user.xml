@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<!-- 基于节点 -->
+	<!-- <t_user> <id></id> <name></name> <nickname></nickname> <username></username> 
+		<password></password> <email></email> </t_user> -->
+	<!-- 基于属性 -->
+	<t_user id="1" name="admin1" />
+	<t_user id="2" name="admin2" />
+	<t_user id="3" name="admin3" />
+	<t_user id="4" name="admin4" />
+	<t_user id="5" name="admin5" />
+	<t_user id="6" name="admin6" />
+	<t_user id="7" name="admin7" />
+	<t_user id="8" name="admin8" />
+	<t_user id="9" name="admin9" />
+</dataset>
